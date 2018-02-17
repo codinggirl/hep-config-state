@@ -1,0 +1,31 @@
+{
+  "name": "hep-config-state",
+  "version": "0.0.1",
+  "description": "config state object for middleware context",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codinggirl/hep-config-state.git"
+  },
+  "keywords": [
+    "hep",
+    "rose",
+    "koa",
+    "koa-cms",
+    "cms",
+    "middleware",
+    "middle",
+    "rose",
+    "egg",
+    "eggjs"
+  ],
+  "author": "Richard Libre",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/codinggirl/hep-config-state/issues"
+  },
+  "homepage": "https://github.com/codinggirl/hep-config-state#readme"
+}
